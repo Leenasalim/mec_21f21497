@@ -1,0 +1,6 @@
+class RestBill{
+public static void main(string args[])
+double bill, princel,price2;
+
+
+
